@@ -14,7 +14,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		CB99E67828A6879F0089559F /* work.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = work.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		CB99E67828A6879F0089559F /* draw.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = draw.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		CB99E67B28A6879F0089559F /* workApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = workApp.swift; sourceTree = "<group>"; };
 		CB99E67D28A6879F0089559F /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		CB99E67F28A687A00089559F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -43,7 +43,7 @@
 		CB99E67928A6879F0089559F /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				CB99E67828A6879F0089559F /* work.app */,
+				CB99E67828A6879F0089559F /* draw.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -70,9 +70,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		CB99E67728A6879F0089559F /* work */ = {
+		CB99E67728A6879F0089559F /* draw */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = CB99E68628A687A00089559F /* Build configuration list for PBXNativeTarget "work" */;
+			buildConfigurationList = CB99E68628A687A00089559F /* Build configuration list for PBXNativeTarget "draw" */;
 			buildPhases = (
 				CB99E67428A6879F0089559F /* Sources */,
 				CB99E67528A6879F0089559F /* Frameworks */,
@@ -82,9 +82,9 @@
 			);
 			dependencies = (
 			);
-			name = work;
+			name = draw;
 			productName = work;
-			productReference = CB99E67828A6879F0089559F /* work.app */;
+			productReference = CB99E67828A6879F0089559F /* draw.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -102,7 +102,7 @@
 					};
 				};
 			};
-			buildConfigurationList = CB99E67328A6879F0089559F /* Build configuration list for PBXProject "work" */;
+			buildConfigurationList = CB99E67328A6879F0089559F /* Build configuration list for PBXProject "draw" */;
 			compatibilityVersion = "Xcode 14.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -115,7 +115,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				CB99E67728A6879F0089559F /* work */,
+				CB99E67728A6879F0089559F /* draw */,
 			);
 		};
 /* End PBXProject section */
@@ -318,7 +318,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		CB99E67328A6879F0089559F /* Build configuration list for PBXProject "work" */ = {
+		CB99E67328A6879F0089559F /* Build configuration list for PBXProject "draw" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				CB99E68428A687A00089559F /* Debug */,
@@ -327,7 +327,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		CB99E68628A687A00089559F /* Build configuration list for PBXNativeTarget "work" */ = {
+		CB99E68628A687A00089559F /* Build configuration list for PBXNativeTarget "draw" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				CB99E68728A687A00089559F /* Debug */,
